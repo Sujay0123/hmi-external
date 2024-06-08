@@ -1,0 +1,101 @@
+{
+    "db-3": [
+        {
+            "baseProperties": {
+                "type": "text",
+                "id": "db-4",
+                "name": "firstname",
+                "formName": "",
+                "label": "first name"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null,
+            "placeholder": null,
+            "accessor": null
+        },
+        {
+            "baseProperties": {
+                "type": "email",
+                "id": "db-5",
+                "name": "mailid",
+                "label": "e-mail"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null,
+            "placeholder": null,
+            "accessor": null
+        },
+        {
+            "baseProperties": {
+                "type": "tel",
+                "id": "db-6",
+                "name": "number",
+                "label": "mobile number"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null,
+            "placeholder": null,
+            "accessor": null
+        },
+        {
+            "baseProperties": {
+                "type": "textarea",
+                "id": "db-8",
+                "name": "adress",
+                "label": "Adress"
+            },
+            "layoutProperties": {
+                "labelPlacement": null,
+                "width": null,
+                "height": null,
+                "css": {
+                    "customClassName": "",
+                    "configuration": [],
+                    "themeClass": ""
+                },
+                "orientation": null
+            },
+            "events": [],
+            "expressionProperties": {},
+            "value": null,
+            "placeholder": null,
+            "accessor": null
+        }
+    ]
+}
